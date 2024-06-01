@@ -1,2 +1,2 @@
-# personalWeb_FaskHW
-personal web by Flask as a homework 
+# personal Web By Fask Homework 
+personal web by Flask as homework 
